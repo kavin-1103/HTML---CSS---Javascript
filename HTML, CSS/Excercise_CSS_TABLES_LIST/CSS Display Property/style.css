@@ -1,0 +1,27 @@
+.thDiv
+{
+    display: table-header-group;
+    font-weight: bold;
+}
+
+.tbodyDiv
+{
+    display: table-row-group;
+}
+
+.trDiv{
+    display: table-row;
+}
+
+.tdDiv
+{
+    display: table-cell;
+    
+}
+
+.tbDiv{
+    display: table;
+    border: black;
+    columns: auto;
+    width: 100%;
+}
